@@ -1,2 +1,2 @@
 # estrutura-sequencial
-estudos com estrutura sequencial
+estudos em estrutura sequencial
